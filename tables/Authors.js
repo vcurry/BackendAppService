@@ -17,10 +17,10 @@ table.columns = {
 Permisos de acceso a la tabla
  */
 
-table.read.access = 'anonymous';
-table.update.access = 'authenticated';
-table.delete.access = 'authenticated';
-table.insert.access = 'authenticated';
+// table.read.access = 'anonymous';
+// table.update.access = 'authenticated';
+// table.delete.access = 'authenticated';
+// table.insert.access = 'authenticated';
 
 
 
