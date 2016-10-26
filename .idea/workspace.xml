@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7dff4c17-3fb3-4aa1-a772-b18a7edab37f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables/Authors.js" afterPath="$PROJECT_DIR$/tables/Authors.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -263,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477243176402</updated>
       <workItem from="1477243178010" duration="2779000" />
-      <workItem from="1477389427826" duration="4294000" />
+      <workItem from="1477389427826" duration="5160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7073000" />
+    <option name="totallyTimeSpent" value="7939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="167" y="23" width="1094" height="1239" extended-state="0" />
