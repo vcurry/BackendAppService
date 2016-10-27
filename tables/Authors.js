@@ -10,7 +10,8 @@ table.columns = {
     "id": "string",
     "author": "string",
     "title": "string",
-    "text": "string"
+    "text": "string",
+    "image": "string"
 };
 
 /*
