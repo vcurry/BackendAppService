@@ -11,7 +11,7 @@ var api = {
 //        var context = req.azureMobile;
         
         var query = {
-            sql: "Select * FROM Authors"
+            sql: "Select * FROM Authors ORDER BY createdAt ASC"
         };
 
         req.azureMobile.data.execute(query)
