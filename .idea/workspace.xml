@@ -4,7 +4,6 @@
     <list default="true" id="7dff4c17-3fb3-4aa1-a772-b18a7edab37f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/readAllRecords.js" afterPath="$PROJECT_DIR$/api/readAllRecords.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables/Authors.js" afterPath="$PROJECT_DIR$/tables/Authors.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
                 <element signature="e#0#51#0" expanded="false" />
               </folding>
@@ -264,12 +263,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477243176402</updated>
       <workItem from="1477243178010" duration="2779000" />
-      <workItem from="1477389427826" duration="8394000" />
+      <workItem from="1477389427826" duration="8483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11173000" />
+    <option name="totallyTimeSpent" value="11262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="167" y="23" width="1094" height="1239" extended-state="0" />
@@ -369,7 +368,7 @@
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
             <element signature="e#0#51#0" expanded="false" />
           </folding>
