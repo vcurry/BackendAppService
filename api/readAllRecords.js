@@ -9,7 +9,8 @@ var api = {
         }
 
         var context = req.azureMobile;
-//        var user = context.user.id;
+        var user = context.user.id;
+
 
         var query = {
             sql: "Select * FROM Authors"
@@ -23,5 +24,5 @@ var api = {
 
 };
 
-//api.get.access = 'authenticated';
+api.get.access = 'authenticated';
 module.exports = api;
