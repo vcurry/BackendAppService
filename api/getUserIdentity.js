@@ -69,7 +69,7 @@ api = {
 
 };
 
-function requestIdentityInfoFacebook(indentities, res, next) {
+function requestIdentityInfoFacebook(identities, res, next) {
 
     var url = 'https://graph.facebook.com/me?fields=id,name,birthday,hometown,email,picture,gender,friends&access_token=' +
         identities.access_token;
