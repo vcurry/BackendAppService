@@ -34,7 +34,7 @@ Permisos de acceso a la tabla
 table.read.access = 'anonymous';
 table.update.access = 'authenticated';
 table.delete.access = 'authenticated';
-table.insert.access = 'authenticated';
+table.insert.access = 'anonymous';
 
 
 
