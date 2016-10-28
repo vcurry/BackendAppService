@@ -84,7 +84,7 @@ function requestIdentityInfoFacebook(indentities, res, next) {
 
 };
 
-api.get.access = 'authenticated';
+api.get.access = 'anonymous';
 
 
 module.exports = api;
