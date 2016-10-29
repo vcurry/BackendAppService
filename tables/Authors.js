@@ -13,7 +13,8 @@ table.columns = {
     "text": "string",
     "image": "string",
     "latitude": "number",
-    "longitude": "number"
+    "longitude": "number",
+    "views": "number"
 };
 
 
