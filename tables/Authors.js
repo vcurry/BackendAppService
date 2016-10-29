@@ -11,7 +11,9 @@ table.columns = {
     "author": "string",
     "title": "string",
     "text": "string",
-    "image": "string"
+    "image": "string",
+    "latitude": "double",
+    "longitude": "double"
 };
 
 
