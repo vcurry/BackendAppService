@@ -12,8 +12,8 @@ table.columns = {
     "title": "string",
     "text": "string",
     "image": "string",
-    "latitude": "decimal",
-    "longitude": "decimal"
+    "latitude": "number",
+    "longitude": "number"
 };
 
 
