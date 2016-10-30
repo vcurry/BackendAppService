@@ -7,8 +7,7 @@ var api = {
         if (typeof req.params.length < 0) {
             return next();
         }
-
-//        var context = req.azureMobile;
+        
         
         var query = {
             sql: "Select * FROM Authors ORDER BY createdAt ASC"
